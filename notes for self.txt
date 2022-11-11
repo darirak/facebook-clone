@@ -1,0 +1,6 @@
+Firebase Google Web SDK Configuration: 
+
+create new file   .env.local
+
+GOOGLE_CLIENT_ID = Web client ID 
+GOOGLE_CLIENT_SECRET = Web client secret
