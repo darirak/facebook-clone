@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/43470248/201896074-aea0424d-4830-4d11-
 
 ### Summary
 
-* **Facebook replica that allows a user to login, post a message/image and have it stored in the database alongside other feed content.**
+* **Facebook replica that allows a user to login, post a message/image and have it stored alongside other content.**
   * Features of the project:
     * Functionalities: Add/Remove Like, Comment, Upload Picture
     * Real-Time Feed: Number of the Likes-Comments, Timestamp, any new incoming Post
