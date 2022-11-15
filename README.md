@@ -36,7 +36,8 @@ https://user-images.githubusercontent.com/43470248/201896074-aea0424d-4830-4d11-
 
 ### Info
 &emsp; **Your Google Account Information (Profile Picture + Name) will be displayed in the header, sidebar and as a custom story.**
-<br /> &emsp; **None will be stored unless you make a post :smile:**
+<br /> &emsp; **Note: You need to [Add Another Account](https://accounts.google.com/) beforehand if you want to be able to select from a list of your Google Accounts.**
+<br /> &emsp; **No information will be stored unless you like/comment/post :smile:**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -47,12 +48,12 @@ https://user-images.githubusercontent.com/43470248/201896074-aea0424d-4830-4d11-
 
 * **Facebook replica that allows a user to login, post a message/image and have it stored in the database alongside other feed content.**
   * Features of the project:
-    * Functionalities: Add/Remove Like, Comment, Add/Remove Picture for Post
+    * Functionalities: Add/Remove Like, Comment, Upload Picture
     * Real-Time Feed: Number of the Likes-Comments, Timestamp, any new incoming Post
     * Responsive Design (Tailwind CSS based)
     * React-Moment (Saves the exact date of posts in Firestore Database)
-    * Firestore for Data Handling (Feed Posts, Comments)
-    * Firebase Storage (Images from Feed Posts)
+    * Firestore for Data Handling (Feed Content)
+    * Firebase Storage (Stores Images uploaded by users)
     * NextJS + Firebase Authentication
 
 ### Built Using
