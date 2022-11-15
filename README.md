@@ -1,34 +1,93 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Fullstack Facebook Clone with React.JS</h1>
 
-## Getting Started
+  <p align="center">
+    <a href="https://facebook-angi.vercel.app"><strong>:point_right: Live Demo on Vercel :point_left:</strong></a>
+    <br />
+    <br />
+  </p>
 
-First, run the development server:
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#intro">Intro</a>
+      <ul>
+        <li><a href="#info">Info</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-using">Built Using</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact-me">Contact</a></li>
+  </ol>
+</details>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<!-- Intro -->
+## Intro
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+https://user-images.githubusercontent.com/43470248/201896074-aea0424d-4830-4d11-8d7b-507940b5950a.mp4
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### Info
+&emsp; **Your Google Account Information (Profile Picture + Name) will be displayed in the header, sidebar and as a custom story.**
+<br /> &emsp; **None will be stored unless you make a post :smile:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-## Deploy on Vercel
+### Summary
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* **Facebook replica that allows a user to login, post a message/image and have it stored in the database alongside other feed content.**
+  * Features of the project:
+    * Functionalities: Add/Remove Like, Comment, Add/Remove Picture for Post
+    * Real-Time Feed: Number of the Likes-Comments, Timestamp, any new incoming Post
+    * Responsive Design (Tailwind CSS based)
+    * React-Moment (Saves the exact date of posts in Firestore Database)
+    * Firestore for Data Handling (Feed Posts, Comments)
+    * Firebase Storage (Images from Feed Posts)
+    * NextJS + Firebase Authentication
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Built Using
+
+* [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
+* [![React][React.org]][React-url]
+* [![NextJS][Nextjs.org]][Nextjs-url]
+* [![JavaScript][JavaScript.com]][JavaScript-url]
+* [![NodeJS][Nodejs.org]][Nodejs-url]
+* [![Firebase][Firebase.com]][Firebase-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[HTML.com]: https://img.shields.io/badge/html-e44d26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://www.html.com/
+[CSS3.com]: https://img.shields.io/badge/css-0070ba?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.css3.com/
+[JavaScript.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://www.javascript.com/
+[React.org]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[React-url]: https://reactjs.org/
+[TailwindCSS.com]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/
+[Nextjs.org]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+[Nextjs-url]: https://nextjs.org/
+[Nodejs.org]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Nodejs-url]: https://nodejs.org/en/
+[Firebase.com]: https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white
+[Firebase-url]: https://firebase.google.com/
+
+
+## Contact Me
+
+<p>
+<div align="center">
+  <a href="https://darirak.ro/"><img src="https://img.shields.io/badge/-My%20Portfolio%20Website-blueviolet?style=for-the-badge" alt="Alcaan Design - My Portfolio Website" /></a>
+  <a href="https://www.linkedin.com/in/darirak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
