@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/43470248/201896074-aea0424d-4830-4d11-
     * React-Moment (Saves the exact date of posts in Firestore Database)
     * Firestore for Data Handling (Feed Content)
     * Firebase Storage (Stores Images uploaded by users)
-    * NextJS + Firebase Authentication
+    * Next Auth + Firebase Authentication
 
 ### Built Using
 
